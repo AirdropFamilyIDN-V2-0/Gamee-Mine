@@ -8,7 +8,7 @@
 https://t.me/AirdropFamilyIDN
 
 # Install And Run
-- git clone https://github.com/AirDropFamilyIDN/AutoMining-Gamee.git
+- git clone https://github.com/AirdropFamilyIDN-V2-0/Gamee-Mine.git
 - cd AutoMining-Gamee
 - pip install -r requirements.txt
 - python bot.py
